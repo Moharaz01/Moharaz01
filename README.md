@@ -11,7 +11,7 @@
 | [SmartDoc AI](https://github.com/Moharaz01/smartdoc-ai) | Privacy-First RAG Document Intelligence | HuggingFace · FAISS · LangChain | [▶ Live App](https://huggingface.co/spaces/Moharaz/smartdoc-ai) |
 | [British Airways Analytics](https://github.com/Moharaz01/british-airways-analytics) | Operations Analytics Capstone — 9 Deliverables | Python · SQL · Power BI | [📁 GitHub](https://github.com/Moharaz01/british-airways-analytics) |
 | [FinSight AI](https://github.com/Moharaz01/finsight-ai) | AI Financial Market Intelligence — LSTM + DBSCAN + K-Means | TensorFlow · scikit-learn | [▶ Live App](https://finsight-moharaz.streamlit.app) |
-| 🧠 BrainBox AI | LLaMA 3.3 70B · RAG · FAISS · Gradio | [Live Demo](https://huggingface.co/spaces/Moharaz/brainbox-ai) · [GitHub](https://github.com/Moharaz01/brainbox-ai) |
+| [🧠 BrainBox AI](https://github.com/Moharaz01/brainbox-ai) | One AI. Two Worlds — AI Tutor + Business Intelligence | LLaMA 3.3 70B · RAG · FAISS · Gradio | [▶️ Live App](https://huggingface.co/spaces/Moharaz/brainbox-ai) |
 
 ## 🛠️ Tech Stack
 
