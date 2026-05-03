@@ -10,6 +10,7 @@
 | [PneumoNet AI](https://github.com/Moharaz01/pneumonet-ai) | Deep Learning X-Ray Classification — 92.4% Accuracy | TensorFlow · MobileNetV2 | [▶ Live App](https://huggingface.co/spaces/Moharaz/pneumonet-ai) |
 | [SmartDoc AI](https://github.com/Moharaz01/smartdoc-ai) | Privacy-First RAG Document Intelligence | HuggingFace · FAISS · LangChain | [▶ Live App](https://huggingface.co/spaces/Moharaz/smartdoc-ai) |
 | [British Airways Analytics](https://github.com/Moharaz01/british-airways-analytics) | Operations Analytics Capstone — 9 Deliverables | Python · SQL · Power BI | [📁 GitHub](https://github.com/Moharaz01/british-airways-analytics) |
+| [FinSight AI](https://github.com/Moharaz01/finsight-ai) | AI Financial Market Intelligence — LSTM + DBSCAN + K-Means | TensorFlow · scikit-learn | [▶ Live App](https://finsight-moharaz.streamlit.app) |
 
 ## 🛠️ Tech Stack
 
