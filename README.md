@@ -4,8 +4,9 @@
 
 ## 🚀 Live Portfolio Projects
 
-| Project | Description | Stack | Live Demo |
+| Project | Description | Stack | Link |
 |---------|------------|-------|-----------|
+| [UK Life For People](https://github.com/Moharaz01/uk-living-intelligence) | Real-time UK Crime, Rent & Living Intelligence Platform | React · FastAPI · UK Police API · Netlify | [● Live App](https://uklifeforpeople.netlify.app) |
 | [ChurnGuard AI](https://github.com/Moharaz01/churnguard-ai) | ML Customer Churn Prediction — AUC 0.89 | scikit-learn · Streamlit | [▶ Live App](https://churnguard-moharaz.streamlit.app) |
 | [PneumoNet AI](https://github.com/Moharaz01/pneumonet-ai) | Deep Learning X-Ray Classification — 92.4% Accuracy | TensorFlow · MobileNetV2 | [▶ Live App](https://huggingface.co/spaces/Moharaz/pneumonet-ai) |
 | [SmartDoc AI](https://github.com/Moharaz01/smartdoc-ai) | Privacy-First RAG Document Intelligence | HuggingFace · FAISS · LangChain | [▶ Live App](https://huggingface.co/spaces/Moharaz/smartdoc-ai) |
