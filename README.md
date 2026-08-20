@@ -9,10 +9,10 @@
 | [UK Life For People](https://github.com/Moharaz01/uk-living-intelligence) | Real-time UK Crime, Rent & Living Intelligence Platform | React · FastAPI · UK Police API · Netlify | [● Live App](https://uklifeforpeople.netlify.app) |
 | [ChurnGuard AI](https://github.com/Moharaz01/churnguard-ai) | ML Customer Churn Prediction — AUC 0.89 | scikit-learn · Streamlit | [▶ Live App](https://churnguard-moharaz.streamlit.app) |
 | [PneumoNet AI](https://github.com/Moharaz01/pneumonet-ai) | Deep Learning X-Ray Classification — 92.4% Accuracy | TensorFlow · MobileNetV2 | [▶ Live App](https://huggingface.co/spaces/Moharaz/pneumonet-ai) |
-| [SmartDoc AI](https://github.com/Moharaz01/smartdoc-ai) | Privacy-First RAG Document Intelligence | HuggingFace · FAISS · LangChain | [▶ Live App](https://huggingface.co/spaces/Moharaz/smartdoc-ai) |
+| [SmartDoc AI](https://github.com/Moharaz01/smartdoc-ai) | Privacy-First RAG Document Intelligence | HuggingFace · FAISS · sentence-transformers | [▶ Live App](https://huggingface.co/spaces/Moharaz/smartdoc-ai) |
 | [British Airways Analytics](https://github.com/Moharaz01/british-airways-analytics) | Operations Analytics Capstone — 9 Deliverables | Python · SQL · Power BI | [📁 GitHub](https://github.com/Moharaz01/british-airways-analytics) |
 | [FinSight AI](https://github.com/Moharaz01/finsight-ai) | AI Financial Market Intelligence — LSTM + DBSCAN + K-Means | TensorFlow · scikit-learn | [▶ Live App](https://finsight-moharaz.streamlit.app) |
-| [🧠 BrainBox AI](https://github.com/Moharaz01/brainbox-ai) | One AI. Two Worlds — AI Tutor + Business Intelligence | LLaMA 3.3 70B · RAG · FAISS · Gradio | [▶️ Live App](https://huggingface.co/spaces/Moharaz/brainbox-ai) |
+| [🧠 BrainBox AI](https://github.com/Moharaz01/brainbox-ai) | One AI. Two Worlds — AI Tutor + Business Intelligence | GPT-OSS 120B · RAG · FAISS · Gradio | [▶️ Live App](https://huggingface.co/spaces/Moharaz/brainbox-ai) |
 | [UK Scam Detector](https://github.com/Moharaz01/uk-scam-message-detector) | UK SMS Scam Detection — 100% Accuracy | Python · scikit-learn · TF-IDF · NLP | [💻 GitHub](https://github.com/Moharaz01/uk-scam-message-detector) |
 
 ## 🛠️ Tech Stack
@@ -28,7 +28,7 @@
 ## 📊 Skills
 `Machine Learning` `Deep Learning` `NLP` `RAG Pipelines` `LLMs`
 `Random Forest` `Gradient Boosting` `CNN` `Transfer Learning` `Grad-CAM`
-`FAISS` `LangChain` `Pandas` `NumPy` `Plotly` `UK GDPR` `Responsible AI`
+`FAISS` `RAG` `Pandas` `NumPy` `Plotly` `UK GDPR` `Responsible AI`
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdrmrithik01)
