@@ -1,35 +1,41 @@
-# 👋 Hi, I'm Mrithik Das Raz
+# Hi, I'm Mrithik Kanti Das (Moharaz) 👋
 
-**AI & Data Science Professional | UK-Based | Open to Opportunities**
+**AI, Generative AI & Data Science · Network, Cloud & Security IT Professional · London, UK · open to opportunities**
 
-## 🚀 Live Portfolio Projects
+I turn complex data into working, deployed intelligence. 8 AI/ML projects, 7 of them live, across **generative AI**, retrieval-augmented generation (RAG), deep learning, NLP and financial analytics, built with the APIs, PWAs and cloud deployment that keep them running. MSc Computer Science (Network Engineering), University of Greenwich, with six years leading IT for a 50+ person organisation.
 
-| Project | Description | Stack | Link |
-|---------|------------|-------|-----------|
-| [UK Life For People](https://github.com/Moharaz01/uk-living-intelligence) | UK Crime & Rental Market Intelligence Platform | React · UK Police API · DWP/VOA LHA · Netlify | [● Live App](https://uklifeforpeople.netlify.app) |
-| [ChurnGuard AI](https://github.com/Moharaz01/churnguard-ai) | ML Customer Churn Prediction — AUC 0.89 | scikit-learn · Streamlit | [▶ Live App](https://churnguard-moharaz.streamlit.app) |
-| [PneumoNet AI](https://github.com/Moharaz01/pneumonet-ai) | Deep Learning X-Ray Classification — 92.4% Accuracy | TensorFlow · MobileNetV2 | [▶ Live App](https://huggingface.co/spaces/Moharaz/pneumonet-ai) |
-| [SmartDoc AI](https://github.com/Moharaz01/smartdoc-ai) | Privacy-First RAG Document Intelligence | HuggingFace · FAISS · sentence-transformers | [▶ Live App](https://huggingface.co/spaces/Moharaz/smartdoc-ai) |
-| [British Airways Analytics](https://github.com/Moharaz01/british-airways-analytics) | Operations Analytics Capstone — 9 Deliverables | Python · SQL · Power BI | [📁 GitHub](https://github.com/Moharaz01/british-airways-analytics) |
-| [FinSight AI](https://github.com/Moharaz01/finsight-ai) | AI Financial Market Intelligence — LSTM + DBSCAN + K-Means | TensorFlow · scikit-learn | [▶ Live App](https://finsight-moharaz.streamlit.app) |
-| [🧠 BrainBox AI](https://github.com/Moharaz01/brainbox-ai) | One AI. Two Worlds — AI Tutor + Business Intelligence | GPT-OSS 120B · RAG · FAISS · Gradio | [▶️ Live App](https://huggingface.co/spaces/Moharaz/brainbox-ai) |
-| [UK Scam Detector](https://github.com/Moharaz01/uk-scam-message-detector) | UK SMS Scam Detection — 100% Accuracy | Python · scikit-learn · TF-IDF · NLP | [💻 GitHub](https://github.com/Moharaz01/uk-scam-message-detector) |
+🏅 **Generative AI Certification**, Scyntech Limited, October 2026
 
-## 🛠️ Tech Stack
+I build AI that is accurate, explainable and safe to trust, with security and GDPR Article 25 (privacy by design) as architecture decisions, not afterthoughts.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![UK GDPR](https://img.shields.io/badge/UK%20GDPR-Compliant-00A86B?style=flat)
+🌐 [Portfolio](https://moharaz01.github.io) · 💼 [LinkedIn](https://linkedin.com/in/mdrmrithik01)
 
-## 📊 Skills
-`Machine Learning` `Deep Learning` `NLP` `RAG Pipelines` `LLMs`
-`Random Forest` `Gradient Boosting` `CNN` `Transfer Learning` `Grad-CAM`
-`FAISS` `RAG` `Pandas` `NumPy` `Plotly` `UK GDPR` `Responsible AI`
+## Production AI/ML projects
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdrmrithik01)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mrithikkantidasraz001@gmail.com)
+| Project | What it does | Result | Stack | Links |
+|---|---|---|---|---|
+| **OpsPilot** | AI assistant for IT helpdesk, data and phishing. Code decides, the AI explains, code verifies. | 328 tests, about 175 deliberate-breakage tests; in my own live evaluation: 0 unsafe misses, 0 secret leaks | Node.js, Gemini API, TF-IDF retrieval, PWA, Google Cloud Run | [Live](https://opspilot-mdr-live.ai.studio/) |
+| **UK Life For People** | Live UK crime by postcode next to Local Housing Allowance rents for 15 cities | Publicly deployed | React, Vite, UK Police API, Netlify | [Live](https://uklifeforpeople.netlify.app) · [Code](https://github.com/Moharaz01/uk-living-intelligence) |
+| **BrainBox AI** | Business-intelligence analytics and AI tutor in one RAG platform | Production RAG on Hugging Face Spaces | GPT-OSS 120B (Groq), FAISS, Gradio | [Live](https://huggingface.co/spaces/Moharaz/brainbox-ai) · [Code](https://github.com/Moharaz01/brainbox-ai) |
+| **FinSight AI** | Financial forecasting with anomaly and regime detection (UK equities, FX, gold, crypto) | LSTM/GRU, DBSCAN, K-Means | TensorFlow, scikit-learn, yfinance, Streamlit | [Live](https://finsight-moharaz.streamlit.app) · [Code](https://github.com/Moharaz01/finsight-ai) |
+| **PneumoNet AI** | Chest X-ray pneumonia classifier with Grad-CAM (a demo, not a medical device) | 92.4% accuracy, 94.7% sensitivity, 0.971 AUC | TensorFlow, MobileNetV2, Streamlit | [Live](https://huggingface.co/spaces/Moharaz/pneumonet-ai) · [Code](https://github.com/Moharaz01/pneumonet-ai) |
+| **SmartDoc AI** | 100% local, privacy-first document RAG (GDPR Article 25) | No data leaves the user's environment | FAISS, sentence-transformers, Streamlit | [Live](https://huggingface.co/spaces/Moharaz/smartdoc-ai) · [Code](https://github.com/Moharaz01/smartdoc-ai) |
+| **ChurnGuard AI** | Customer churn prediction for UK telecoms | AUC-ROC 0.89 across 27 features | Python, scikit-learn, Streamlit | [Live](https://churnguard-moharaz.streamlit.app) · [Code](https://github.com/Moharaz01/churnguard-ai) |
+| **British Airways Operations Analytics** | Capstone: 9 deliverables including dashboards, SQL library, risk engine and a GDPR documentation framework | 9 deliverables | Python, SQL, Power BI, Excel | [Code](https://github.com/Moharaz01/british-airways-analytics) |
+
+More: [UK Scam Detector](https://github.com/Moharaz01/uk-scam-message-detector), a Naive Bayes SMS classifier (small test set, so treat its 100% as a prototype result).
+
+## Skills
+
+**Languages:** Python · SQL · JavaScript (Node.js) · R
+**Generative AI and LLMs:** Gemini and Groq APIs · RAG (TF-IDF, FAISS) · structured-JSON prompting · guardrails · answer verification · Hugging Face
+**ML and DL:** scikit-learn · TensorFlow/Keras · XGBoost · LSTM/GRU · CNNs · Grad-CAM · NLP
+**Data and analytics:** Power BI · Tableau · Pandas · NumPy · Excel · ETL/ELT · data modelling
+**APIs, apps and testing:** FastAPI · API integration · React · Vite · PWAs · Streamlit · Gradio · adversarial testing · Git/GitHub
+**Cloud and deployment:** Google Cloud Run · Docker · Hugging Face Spaces · Streamlit Cloud · Netlify
+**Security and governance:** UK GDPR · Article 25 · privacy by design · secret masking · compliance documentation
+**IT infrastructure and networking:** server administration · networking · technology procurement · user support
+
+## Looking for
+
+Data Analyst, Junior Data Scientist and AI/ML Engineer roles in London.
