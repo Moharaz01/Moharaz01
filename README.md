@@ -1,4 +1,4 @@
-# Hi, I'm Mrithik Kanti Das (Moharaz) 👋
+# Hi, I'm Mrithik Das Raz (Moharaz) 👋
 
 **AI, Generative AI & Data Science · Network, Cloud & Security IT Professional · London, UK · open to opportunities**
 
